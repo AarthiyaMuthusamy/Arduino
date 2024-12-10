@@ -1,8 +1,10 @@
-"Ambulance Tracking and Patient Monitoring System"
+Ambulance Tracking with Patient Monitoring System
 
-
+---
 Objective:
 To develop a system that tracks the real-time location of an ambulance, monitors the patient's health parameters, and provides critical data to the hospital before the ambulance arrives. The system aims to optimize emergency response, reduce delays, and improve patient care during transit.
+
+---
 
 Key Features:
 
@@ -18,11 +20,11 @@ Integrates traffic analysis to optimize the route and minimize delays.
 
 Equipped with sensors to measure key patient parameters, including:
 
-Heart rate
+✓ Heart rate
 
-Oxygen levels (SpO2)
+✓ Oxygen levels (SpO2)
 
-Blood pressure
+✓ Blood pressure
 
 
 Provides live updates to hospital staff for pre-arrival preparation.
@@ -53,6 +55,7 @@ Sends data securely to hospital systems for seamless integration and preparation
 
 
 
+---
 
 Technologies Used:
 
@@ -71,6 +74,8 @@ IoT Integration: Real-time communication between ambulance and hospital.
 
 Software: Python for data visualization and integration with hospital systems.
 
+---
+
 
 Impact:
 
@@ -79,6 +84,8 @@ Faster Emergency Response: Optimized route management reduces transportation del
 Improved Patient Outcomes: Real-time health data allows hospitals to prepare in advance, improving the chances of better treatment upon arrival.
 
 Scalable Solution: The system can be scaled to integrate with city-wide ambulance services and emergency networks.
+
+---
 
 
 Skills Gained:
@@ -92,5 +99,9 @@ Knowledge of real-time data management and GSM-based communication.
 Problem-solving skills in developing scalable and efficient systems.
 
 
+---
+
 Conclusion:
 This project demonstrated the potential of combining IoT, GPS, and healthcare technologies to improve emergency medical services. It provided a real-world application of my technical skills and contributed to my understanding of designing and implementing systems that can save lives.
+
+
